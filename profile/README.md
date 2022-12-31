@@ -20,10 +20,12 @@ Web frontend consisting of modules like the landing page and er management
 - [pnpm](https://pnpm.io/)
 - [tailwindcss](https://tailwindcss.com/)
 
+This project is tested with [BrowserStack](https://www.browserstack.com).
+
 ### [helpwave/mobile-app](https://github.com/helpwave/mobile-app)
 Mobile app frontend made with the best user experience for our patients
 #### Technology
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 
-
+This project is tested with [BrowserStack](https://www.browserstack.com).
