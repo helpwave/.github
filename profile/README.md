@@ -6,6 +6,9 @@ Are you interested, would you like to know more about helpwave or even help us?
 Then simply write to us at: [contact@helpwave.de](mailto:contact@helpwave.de)
 
 ## Repositories
+
+> Unless otherwise defined, all helpwave's repositories are under the Mozilla Public License 2.0.
+
 ### [helpwave/services](https://github.com/helpwave/services)
 All the backend microservices at one place
 #### Technology
