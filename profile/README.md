@@ -22,3 +22,9 @@ Web frontend consisting of modules like the landing page and er management
 ### 📱 [helpwave/mobile-app](https://github.com/helpwave/mobile-app)
 Mobile app frontend made with the best user experience for our patients
 > This project is tested with [BrowserStack](https://www.browserstack.com).
+
+## 🚀 Social Media
+- [Website](https://helpwave.de/)
+- [LinkedIn](https://linkedin.com/company/helpwave/)
+- [Instagram helpwave_de](https://www.instagram.com/helpwave_de/)
+- [Twitter @helpwave_de](https://twitter.com/helpwave_de/)
