@@ -1,0 +1,17 @@
+title: "Title - Product Name"
+labels: ["product/tasks"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > Short one-sentence description of the feature.
+
+        # Problem
+        Short description of the problem you encountered/observed or that you heard of.
+
+        # Possible Solution
+        Short description of the possible solution helpwave could implement. Key features should be presented here, keep it brief!
+
+        # USP
+        Is this feature adding to the portfolio? How?
+
