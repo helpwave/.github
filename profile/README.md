@@ -1,4 +1,4 @@
-# 🖖 [helpwave](https://helpwave.de)
+# helpwave
 We digitize emergency rooms using a bleeding edge software architecture approach!
 
 ## ✉️ Contact us
