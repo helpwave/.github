@@ -1,0 +1,24 @@
+title: "Title - New Product Name"
+labels: ["product/new"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > Short one-sentence description of the feature.
+
+        # Problem
+        Short description of the problem you encountered/observed or that you heard of.
+
+        # Possible Solution
+        Short description of the possible solution helpwave could implement. Key features should be presented here, keep it brief!
+
+        # USP
+        Unique selling point of the product, why would people want this? Should be a few sentences max.
+
+        # Monetarization Possibilities
+        How could we sell/distribute this to customers?
+
+        # Market Research
+        Short overview over possible competitors, can be omitted if not done (yet).
+
+
