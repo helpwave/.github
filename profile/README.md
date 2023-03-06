@@ -1,5 +1,5 @@
 # helpwave
-We digitize emergency rooms using a bleeding edge software architecture approach!
+We digitize healthcare facilities using a bleeding edge software architecture approach!
 
 ## ✉️ Contact us
 Are you interested, would you like to know more about helpwave or even help us?  
