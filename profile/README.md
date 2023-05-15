@@ -1,5 +1,5 @@
 # helpwave
-We digitize healthcare facilities using a bleeding edge software architecture approach!
+empowering medical heroes, united in technology
 
 ## ✉️ Contact us
 Are you interested, would you like to know more about helpwave or even help us?  
