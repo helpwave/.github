@@ -1,0 +1,26 @@
+name: Bug report
+description: When you found a bug
+title: "[Bug]: TheNameForTheBug"
+labels: [bug]
+assignees: []
+
+body:
+  - type: textarea
+    id: bug
+    attributes:
+      label: "[REQUIRED] Describe the Bug"
+      description: "E.g. The layout button doesn't change the layout"
+    validations:
+      required: true
+  - type: textarea
+    id: howToReproduce
+    attributes:
+      label: "[REQUIRED] Describe how to produce the bug"
+      description: "E.g. Open the Ward screen and click the layout button"
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Additional context"
+      description: "E.g. Pictures, screenshots, and other context information to help us understand the bug and how to produce it"
