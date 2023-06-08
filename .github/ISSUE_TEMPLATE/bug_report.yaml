@@ -18,7 +18,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: additional
+    id: context
     attributes:
       label: "Additional context"
       description: "E.g. Pictures, screenshots, and other context information to help us understand the bug and how to produce it"
