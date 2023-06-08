@@ -1,8 +1,6 @@
 name: Feature request
 description: When you want to propose a new feature
-title: "[Feature]: TheNameOfYourFeature"
-labels: []
-assignees: []
+labels: [enhancement]
 
 body:
   - type: textarea
