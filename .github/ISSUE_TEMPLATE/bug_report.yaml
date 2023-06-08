@@ -6,7 +6,7 @@ assignees: []
 
 body:
   - type: textarea
-    id: bug
+    id: description
     attributes:
       label: "Describe the bug"
       description: "E.g. The layout button doesn't change the layout"
