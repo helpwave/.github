@@ -4,26 +4,21 @@ labels: [enhancement]
 
 body:
   - type: textarea
-    id: problem
+    id: description
     attributes:
-      label: "[REQUIRED] Describe the problem"
-      description: "E.g. I can't easily navigate to the home page"
-    validations:
-      required: true
-  - type: textarea
-    id: solution
-    attributes:
-      label: "[REQUIRED] Describe your solution"
+      label: "Describe the feature"
       description: "E.g. Add a home button"
     validations:
       required: true
   - type: textarea
-    id: alternatives
+    id: rationale
     attributes:
-      label: "Describe alternatives"
-      description: "E.g. Improve the other all navigation system"
+      label: "Why is this feature needed?"
+      description: "E.g. I can't easily navigate to the home page"
+    validations:
+      required: true
   - type: textarea
-    id: additional
+    id: context
     attributes:
       label: "Additional context"
       description: "E.g. Pictures, screenshots, and other context information to help us understand the feature you would like"
