@@ -1,0 +1,24 @@
+name: Feature request
+description: When you want to propose a new feature
+labels: [enhancement]
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe the feature"
+      description: "E.g. Add a home button"
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: "Why is this feature needed?"
+      description: "E.g. I can't easily navigate to the home page"
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: "Additional context"
+      description: "E.g. Pictures, screenshots, and other context information to help us understand the feature you would like"
