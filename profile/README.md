@@ -1,34 +1,70 @@
-# [helpwave](https://helpwave.de)
-empowering medical heroes, united in technology
+<div align="center">
+  <img src="https://cdn.helpwave.de/thumbnail.png" alt="helpwave banner" width="100%" />
 
-## 🗃️ Repositories
-> Unless otherwise defined, all helpwave's repositories are under the Mozilla Public License 2.0.
+  <br />
 
-### 🫵 [helpwave/helpwave](https://github.com/helpwave/helpwave)
-The main repository housing all feature definitions and general information about helpwave!
-> If you're new, that's where you should look first! [🌊](https://github.com/helpwave/helpwave)
+  <h1><a href="https://helpwave.de">🌊 helpwave</a></h1>
 
-### 🖧  [helpwave/services](https://github.com/helpwave/services)
-All the backend microservices at one place
-> #golang #dapr #python #grpc #protobuf
+  <h3>
+    <b>Making healthcare software affordable via open source & processes efficient via process mining.</b>
+  </h3>
 
-### 🕸️ [helpwave/web](https://github.com/helpwave/web) 
-Web frontend consisting of modules like the landing page and er management
-> #nextjs #twind #react-query #pnpm #design
+  <p>
+    We build modern, open-source tools to simplify clinical workflows, reduce costs, and bring clarity to hospitals and medical practices.
+  </p>
 
-### 📱 [helpwave/mobile-app](https://github.com/helpwave/mobile-app)
-Mobile app frontend made with the best user experience for our patients
-> #flutter #melos #browserstack #ios #android
+  <br />
 
-## 🚀 Social Media
-- [Website](https://helpwave.de/)
-- [LinkedIn](https://linkedin.com/company/helpwave/)
-- [Instagram helpwave_de](https://www.instagram.com/helpwave_de/)
-- [YouTube @helpwave](https://www.youtube.com/@helpwave)
-- [Twitter @helpwave_org](https://twitter.com/helpwave_org/)
-- [Spotify](https://open.spotify.com/show/6hL5UMytp81gmURnfn3dS9)
-- [Apple Podcasts](https://podcasts.apple.com/us/podcast/helpwave-talks/id1695217116)
+  <a href="https://helpwave.de">
+    <img src="https://img.shields.io/badge/Website-helpwave.de-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/company/helpwave">
+    <img src="https://img.shields.io/badge/LinkedIn-helpwave-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contact@helpwave.de">
+    <img src="https://img.shields.io/badge/Email-Contact_Us-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://invest.helpwave.de">
+    <img src="https://img.shields.io/badge/Invest-Helpwave-10B981?style=flat-square&logo=github-sponsors&logoColor=white" alt="Invest" />
+  </a>
 
-## ✉️ Contact us
-Are you interested, would you like to know more about helpwave or even help us?  
-Then simply write to us at: [contact@helpwave.de](mailto:contact@helpwave.de)
+  <br /><br />
+</div>
+
+---
+
+### 🏥 What We Do
+
+We believe patient care is teamwork. Our mission is to digitize healthcare without the heavy price tag or complex barriers.
+* **Open Source:** Transparent, secure, and community-driven development.
+* **Process Mining:** Analyzing workflows to remove bottlenecks in clinical environments.
+* **Efficiency:** Tools designed *with* medical professionals, *for* medical professionals.
+
+---
+
+### 🚀 Main Repositories
+
+<div align="center">
+
+| 📋 **helpwave tasks** | 🌊 **helpwave hightide** | 🏛️ **Legal & Meta** |
+| :--- | :--- | :--- |
+| **[github.com/helpwave/tasks](https://github.com/helpwave/tasks)** | **[github.com/helpwave/hightide](https://github.com/helpwave/hightide)** | **[github.com/helpwave/helpwave](https://github.com/helpwave/helpwave)** |
+| A modern **task & ward-management platform**. Features tasks management, patient lists, and templates to organize clinical teamwork. | Our core **UI Component Library**. Ensuring a consistent, accessible, and beautiful design language across all our apps. | The **Main Hub**. Feature definitions, general information, and legal documents (`/legal`) governing our open-source ecosystem. |
+
+</div>
+
+---
+
+### 🛠️ Tech Stack & Assets
+
+* **Frontend:** `helpwave/web` (Next.js, React), `helpwave/mobile-app` (Flutter)
+* **Backend:** `helpwave/services` (Go, Microservices)
+* **Design Assets:** [assets.helpwave.de](https://assets.helpwave.de)
+
+---
+
+<div align="center">
+  <br />
+  <p>Interested in shaping the future of healthcare software? <br/> Check out our <a href="https://invest.helpwave.de">Invest Page</a> or drop us a line.</p>
+  <p>© helpwave GmbH</p>
+</div>
